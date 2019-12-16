@@ -1,3 +1,4 @@
+//Fix incorrect amount of damage dealt
 package main;
 
 import java.awt.*;
